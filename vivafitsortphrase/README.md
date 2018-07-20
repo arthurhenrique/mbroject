@@ -1,6 +1,6 @@
 # VivaFit Sort Phrases
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://instagram.fbhz2-1.fna.fbcdn.net/vp/62b531d3adb0e3497bbd596a77445b38/5BEFD8C0/t51.2885-19/s320x320/11809540_166433353693368_1481213_a.jpg)
+![Viva](https://github.com/arthurhenrique/mbroject/blob/master/vivafitsortphrase/res/viva.jpg)
 
 Vivafit is a restaurant that the slogan is 'Alimentamos e servimos nossos clientes como mto amor e propósito.'
 
@@ -28,5 +28,4 @@ Vivafit is a restaurant that the slogan is 'Alimentamos e servimos nossos client
 
 
 # Inspiration
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://instagram.fbhz2-1.fna.fbcdn.net/vp/62b531d3adb0e3497bbd596a77445b38/5BEFD8C0/t51.2885-19/s320x320/11809540_166433353693368_1481213_a.jpg)
+![Logo](https://github.com/arthurhenrique/mbroject/blob/master/vivafitsortphrase/res/phraseviva.jpeg)
