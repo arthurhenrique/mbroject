@@ -1,7 +1,7 @@
 # Dependencies
-    `pipenv --three install`
+    pipenv --three install
     
 # Run
-    `pipenv shell`
-    `./run_server.sh`
-    `python3 client.py`
+    pipenv shell
+    ./run_server.sh
+    python3 client.py
