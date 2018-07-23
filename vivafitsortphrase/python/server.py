@@ -11,13 +11,6 @@ phrases = [ {'phrase':'Quando foi a última vez que você fez algo pela primeira
 {'phrase':'Opte por aquilo que faz seu coração vibrar... Apesar de todas consequencias.', 'author': 'Osho'},
 {'phrase':'O primeiro passo para se ter um bom dia: Dê bom dia a alguém!', 'author':	'Unknow'}]
 
-@hug.directive()
-def foobar_header(**kwargs):
-   header = {
-       'Content-Type': 'application/json'
-   }
-   return header
-
 @hug.get("/vivaphrases")
-def get_data(hug_foobar_header, Ident=True, Tabs=2):
-   return {"header": hug_foobar_header, "data": phrases}
+def get_data():
+   return {"data": phrases}
