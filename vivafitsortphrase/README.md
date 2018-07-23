@@ -8,7 +8,7 @@ Vivafit is a restaurant that the slogan is 'Alimentamos e servimos nossos client
 # Task
 
   - Create a Webservice that contains the phrases bellow;
-  - Consume this webservice, sort and return one vivafit phrase;
+  - Consume this webservice, get a random phrase and return one vivafit phrase;
 
 
 # Phrases
